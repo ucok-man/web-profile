@@ -5,8 +5,8 @@ import { geistMono, geistSans } from "./fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Alvin Odhi | Software Developer",
-  description: "Software Developer from Indonesia with handsome face :)",
+  title: "Alvin Odhi | Fullstack Developer",
+  description: "Fullstack Developer from Indonesia with handsome face :)",
   icons: [{ rel: "icon", url: "/hello.svg" }],
 };
 
