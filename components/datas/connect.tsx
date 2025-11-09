@@ -10,7 +10,7 @@ export const SOCIAL_LIST = [
   {
     name: "LinkedIn",
     handle: "Alvin Odhi",
-    url: "https://www.linkedin.com/feed",
+    url: "https://www.linkedin.com/in/alvin-odhi-nusantara-a793352b1",
   },
 ] as const;
 
