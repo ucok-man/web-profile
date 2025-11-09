@@ -16,7 +16,7 @@ export const SOCIAL_LIST = [
 
 export const Connect = {
   Interest: () => (
-    <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
+    <p className="text-base sm:text-xl text-muted-foreground leading-relaxed">
       Always interested in new opportunities, collaborations, and conversations
       about technology and manga.
     </p>

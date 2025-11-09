@@ -1,6 +1,14 @@
 import TechCard from "../tech-badge";
 
-const FOCUS_SKILL = ["React", "Typescript", "Go", "Node.js", "SQL", "Docker"];
+const FOCUS_SKILL = [
+  "React",
+  "Typescript",
+  "Go",
+  "Node.js",
+  "SQL",
+  "Docker",
+  "Anime & Manga",
+];
 
 export const Intro = {
   Sub: () => (
@@ -19,10 +27,11 @@ export const Intro = {
 
   About: () => (
     <p className="text-base sm:text-xl text-muted-foreground leading-relaxed">
-      Crafting digital experiences at the intersection of
-      <span className="text-foreground"> design</span>,
-      <span className="text-foreground"> technology</span>, and
-      <span className="text-foreground"> user experience</span>.
+      <span className="text-foreground">Crafting beautiful code</span>.
+      Exploring the worlds of{" "}
+      <span className="text-foreground">JavaScript</span> and{" "}
+      <span className="text-foreground">Go</span>. Always learning, always
+      reading.
     </p>
   ),
 

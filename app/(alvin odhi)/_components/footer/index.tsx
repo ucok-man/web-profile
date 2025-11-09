@@ -35,7 +35,7 @@ export default function Footer() {
           </button>
 
           <Link
-            href="https://wa.me/081390860474?text=Hi!%20I%20found%20your%20portfolio%20and%20would%20like%20to%20connect"
+            href="https://wa.me/082264533925?text=Hello👋!"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-3 rounded-lg border border-border hover:border-muted-foreground/50 transition-all duration-300 cursor-pointer inline-block"
