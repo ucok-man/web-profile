@@ -1,3 +1,4 @@
+import Bold from "../bold";
 import TechCard from "../tech-badge";
 
 const FOCUS_SKILL = [
@@ -27,11 +28,10 @@ export const Intro = {
 
   About: () => (
     <p className="text-base sm:text-xl text-muted-foreground leading-relaxed">
-      <span className="text-foreground">Crafting beautiful code</span>.
-      Exploring the worlds of{" "}
-      <span className="text-foreground">JavaScript</span> and{" "}
-      <span className="text-foreground">Go</span>. Always learning, always
-      reading.
+      Passionate about writing <Bold>great code</Bold> and building{" "}
+      <Bold>meaningful software</Bold>. Currently learning{" "}
+      <Bold>full-stack development</Bold> while exploring the world of{" "}
+      <Bold>DevOps</Bold>.
     </p>
   ),
 
