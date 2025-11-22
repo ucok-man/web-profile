@@ -6,7 +6,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Alvin Odhi | Fullstack Developer",
-  description: "Fullstack Developer from Indonesia with handsome face :)",
+  description:
+    "Fullstack Developer from Indonesia. Currently learning full-stack development while exploring the world of DevOps",
   icons: [{ rel: "icon", url: "/hello.svg" }],
 };
 
