@@ -145,13 +145,13 @@ export const PROJECT_LIST = [
     tech: ["Next.js", "Typescript", "Prisma", "Postgres", "NextAuth"],
   },
   {
-    name: "Gmoapi | REST API",
+    name: "Gmoapi | Movie REST API",
     description:
       "RESTful API movies management with user authentication, role-based authorization, rate limiting, and email notifications.",
     imageUrl: "/projects/gmoapi.png",
     liveUrl: "https://gmoapi.ucokman.web.id",
     githubUrl: "https://github.com/ucok-man/gmoapi",
-    tech: ["Go", "Postgres", "SMTP", "Swagger"],
+    tech: ["Go", "Postgres", "SMTP"],
   },
   {
     name: "Falesso | Company Profile",
