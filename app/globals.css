@@ -139,7 +139,7 @@
 }
 
 .swiper-pagination {
-  @apply top-0! w-fit! h-fit!;
+  @apply -top-2! w-fit! h-fit! !left-1/2 !-translate-x-1/2;
 }
 
 .swiper-pagination-bullet {
