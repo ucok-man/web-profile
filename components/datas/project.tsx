@@ -29,7 +29,16 @@ export const PROJECT_LIST = [
       "An e-commerce API with many features, made using microservices and gRPC.",
     imageUrl: "/projects/kiwish.png",
     githubUrl: "https://github.com/ucok-man/kiwish-e-commerce-grpc",
-    tech: ["Go, Echo, GRPC, Postgres, Mongodb, Redis, SMTP, Xendit"],
+    tech: [
+      "Go",
+      "Echo",
+      "GRPC",
+      "Postgres",
+      "Mongodb",
+      "Redis",
+      "SMTP",
+      "Xendit",
+    ],
   },
   {
     name: "Unlovable | Clone",
