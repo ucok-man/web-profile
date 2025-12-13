@@ -24,6 +24,14 @@ export const PROJECT_LIST = [
     tech: ["Next.js", "ORPC", "Prisma", "Postgres", "Cloudinary", "OpenAI"],
   },
   {
+    name: "Kiwish | E-commerce API Microservices",
+    description:
+      "An e-commerce API with many features, made using microservices and gRPC.",
+    imageUrl: "/projects/kiwish.png",
+    githubUrl: "https://github.com/ucok-man/kiwish-e-commerce-grpc",
+    tech: ["Go, Echo, GRPC, Postgres, Mongodb, Redis, SMTP, Xendit"],
+  },
+  {
     name: "Unlovable | Clone",
     description:
       "Lovable clone application that generates complete web applications using AI agents.",
