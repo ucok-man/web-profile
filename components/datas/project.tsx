@@ -160,7 +160,7 @@ export const PROJECT_LIST = [
     imageUrl: "/projects/gmoapi.png",
     liveUrl: "https://gmoapi.ucokman.web.id",
     githubUrl: "https://github.com/ucok-man/gmoapi",
-    tech: ["Go", "Postgres", "SMTP"],
+    tech: ["Go", "Postgres", "Swagger", "SMTP", "RBAC"],
   },
   {
     name: "Falesso | Company Profile",
